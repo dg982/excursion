@@ -1,38 +1,33 @@
 html {
   background-color: black;
   font-family: Verdana;
-  font-weight: normal;
   text-align: center;
 }
 
 #copyright {
   text-align: right;
-  font-size: 21px;
-  color: gray;
 }
 
 h1 {
   font-size: 50px;
+  font-weight: normal;
   color: white;
 }
 
 h2 {
-  font-size: 16px;
-  color: aquamarine;
-}
-
-.medium {
   font-size: 42px;
-}
-
-.small {
-  font-size: 21px;
-}
-
-.white {
+  font-weight: normal;
   color: white;
 }
 
-.gray {
+h3 {
+  font-size: 21px;
+  font-weight: normal;
   color: gray;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: normal;
+  color: Aquamarine;
 }
